@@ -1,0 +1,8 @@
+{
+  "name": "Remix Portal Pesantren At-Taroqqy",
+  "description": "Portal berita dan profil institusi Pondok Pesantren At-Taroqqy bergaya magazine modern, responsif, menyajikan warta pesantren, kajian bahtsul masail, dan informasi pendaftaran santri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
